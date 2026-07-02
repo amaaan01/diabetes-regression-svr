@@ -161,8 +161,8 @@ diabetes-regression-svr/
 
 | Metric | Value |
 |----------|----------|
-| Train R² | XX.XX |
-| Test R² | XX.XX |
+| Train R² | 0.5148886128277125 |
+| Test R² | 0.47346104043236503 |
 
 Replace the values above with your actual results.
 
